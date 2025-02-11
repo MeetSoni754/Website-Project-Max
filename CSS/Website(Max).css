@@ -77,7 +77,7 @@
 .background-image{
     height: 94vh;
     width: 100%;
-    background: url(Images/p2.jpg);
+    background: url(../Images/p2.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -242,7 +242,7 @@
 }
 
 .background-image-2{
-    background: url(Images/p1.jpeg);
+    background: url(../Images/p1.jpeg);
     height: 400px;
     width: 550px;
     background-size: cover;
@@ -294,7 +294,7 @@
 }
 
 .Services-Image{
-    background: url(Images/p3.jpg);
+    background: url(../Images/p3.jpg);
     height: 400px;
     width: 550px;
     background-size: cover;
@@ -530,7 +530,7 @@ button:hover {
     .background-image{
         height: 89vh;
         width: 100%;
-        background: url(Images/p2.jpg);
+        background: url(../Images/p2.jpg);
         background-size: cover;
         display: flex;
         justify-content: center;
@@ -690,7 +690,7 @@ button:hover {
     }
     
     .background-image-2{
-        background: url(Images/p1.jpeg);
+        background: url(../Images/p1.jpeg);
         height: 360px;
         width: 440px;
         background-size: cover;
@@ -747,7 +747,7 @@ button:hover {
     }
     
     .Services-Image{
-        background: url(Images/p3.jpg);
+        background: url(../Images/p3.jpg);
         height: 360px;
         width: 440px;
         background-size: cover;
@@ -871,7 +871,7 @@ button:hover {
     .background-image{
         height: 89vh;
         width: 100%;
-        background: url(Images/p2.jpg);
+        background: url(../Images/p2.jpg);
         background-size: cover;
         display: flex;
         justify-content: center;
@@ -1033,7 +1033,7 @@ button:hover {
     }
     
     .background-image-2{
-        background: url(Images/p1.jpeg);
+        background: url(../Images/p1.jpeg);
         height: 290px;
         width: 360px;
         background-size: cover;
@@ -1091,7 +1091,7 @@ button:hover {
     }
     
     .Services-Image{
-        background: url(Images/p3.jpg);
+        background: url(../Images/p3.jpg);
         height: 290px;
         width: 360px;
         background-size: cover;
@@ -1256,7 +1256,7 @@ button:hover {
     .background-image{
         height: 89vh;
         width: 100%;
-        background: url(Images/p2.jpg);
+        background: url(../Images/p2.jpg);
         background-size: cover;
         position: relative;
         display: flex;
@@ -1418,7 +1418,7 @@ button:hover {
     }
     
     .background-image-2{
-        background: url(Images/p1.jpeg);
+        background: url(../Images/p1.jpeg);
         height: 220px;
         width: 270px;
         background-size: cover;
@@ -1476,7 +1476,7 @@ button:hover {
     }
     
     .Services-Image{
-        background: url(Images/p3.jpg);
+        background: url(../Images/p3.jpg);
         height: 220px;
         width: 270px;
         background-size: cover;
@@ -1616,7 +1616,7 @@ button:hover {
     .background-image{
         height: 89vh;
         width: 100%;
-        background: url(Images/p2.jpg);
+        background: url(../Images/p2.jpg);
         background-size: cover;
         display: flex;
         justify-content: center;
@@ -1783,7 +1783,7 @@ button:hover {
     }
     
     .background-image-2{
-        background: url(Images/p1.jpeg);
+        background: url(../Images/p1.jpeg);
         height: 250px;
         width: 300px;
         background-size: cover;
@@ -1845,7 +1845,7 @@ button:hover {
     }
     
     .Services-Image{
-        background: url(Images/p3.jpg);
+        background: url(../Images/p3.jpg);
         height: 250px;
         width: 300px;
         background-size: cover;
